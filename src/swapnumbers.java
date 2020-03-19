@@ -8,6 +8,7 @@ public class swapnumbers {
         first=sc.nextInt();
         System.out.println("enter the 2nd no.");
         second=sc.nextInt();
+        sc.close();
         System.out.println("before swap");
         System.out.println("first number:"+first);
         System.out.println("second number:"+second);
